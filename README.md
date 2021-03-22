@@ -1,6 +1,7 @@
 # TranslatorXamarinForms
 Language Translation in Xamarin Forms using Azure Cognitive Services
-Prerequisites 
+
+## Prerequisites 
 1. Azure subscription [Azure Service Account](https://azure.microsoft.com/en-us/free/cognitive-services/)
 2. Once you have an Azure subscription, [create a Translator resource](https://ms.portal.azure.com/#create/Microsoft.CognitiveServicesTextTranslation) in the Azure portal to get your key and endpoint. After it deploys, select Go to resource.
 You'll need the key and endpoint from the resource to connect your application to the Translator service. You'll paste your key and endpoint into the code below later in the quickstart.
